@@ -1,0 +1,2 @@
+Write a program that takes the users age and tells them whether or not their B-day was in a leap year (Try using a step cope)
+Look at an SSD hard drive
